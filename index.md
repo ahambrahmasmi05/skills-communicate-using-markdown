@@ -7,6 +7,9 @@
 <h6> This is an h6 header. </h6>
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 
 
 
